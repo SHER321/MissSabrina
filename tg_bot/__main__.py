@@ -33,13 +33,13 @@ I'm here to manage your groups!
 
 Click Help button to find out more about how to use me to my full potential. 
 
-Join Support Chat ( @SabrinaChat ) if you need any support or help 
+Join Support Chat [CLICK HERE](https://t.me/NGY_BOTS) if you need any support or help 
 
-Join ( @SabrinaOfficial ) if you want to keep up with the news, updates and bot downtime!
+Join [NGY BOTS](https://t.me/NGY_BOTS) if you want to keep up with the news, updates and bot downtime!
 
-Made by @TechnoAyanOfficial
+Made by Legend : [😎 N I K H I L😎](https://t.me/NGYNY)
 
-Want me to help you? [Click Here!](https://t.me/MissSabrina_bot?startgroup=true)
+Want me to help you? [Click Here!](https://t.me/SIMBHA_NGY_BOT?startgroup=true)
 """
 
 
@@ -61,7 +61,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
-DONATE_STRING = """Hey you can Donate to [Ayan Ansari](t.me/TechnoAyanOfficial) for better server """
+DONATE_STRING = """Hey you can Donate to [N I K H I L](t.me/NGYNY) for better server """
 
 
 IMPORTED = {}
@@ -172,7 +172,7 @@ def send_start(bot, update):
                              url="https://t.me/MissSabrina_bot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
         ]]
     keyboard += [[
-        InlineKeyboardButton(text=tld(chat.id, '👥 Support Group'), url="https://t.me/SabrinaChat")
+        InlineKeyboardButton(text=tld(chat.id, '👥 Support Channel'), url="https://t.me/NGY_BOTS")
     ]]
 
     update.effective_message.reply_text(
