@@ -33,13 +33,13 @@ I'm here to manage your groups!
 
 Click Help button to find out more about how to use me to my full potential. 
 
-Join Support Chat [CLICK HERE](https://t.me/NGY_BOTS) if you need any support or help 
+Join Support Chat [CLICK HERE](https://t.me/ALL_MOVIES_LIABRARY) if you need any support or help 
 
 Join [NGY BOTS](https://t.me/NGY_BOTS) if you want to keep up with the news, updates and bot downtime!
 
 Made by Legend : [😎 N I K H I L😎](https://t.me/NGYNY)
 
-Want me to help you? [Click Here!](https://t.me/SIMBHA_NGY_BOT?startgroup=true)
+Want me to help you? [Click Here!](https://t.me/KING_NGY_BOT?startgroup=true)
 """
 
 
@@ -52,7 +52,7 @@ Hello! my name *{}*.
 *Main* available commands:
  - /start: Start the bot...
  - /help: help....
- - /donate: To find out more about donating!
+
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
