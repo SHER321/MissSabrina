@@ -71,7 +71,7 @@ STATS = []
 USER_INFO = []
 DATA_IMPORT = []
 DATA_EXPORT = []
-
+DONATE = = []
 CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
