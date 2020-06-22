@@ -417,7 +417,7 @@ def donate(bot: Bot, update: Update):
         if OWNER_ID != 1171354752 and DONATION_LINK:
             update.effective_message.reply_text("You can also donate to the person currently running me "
                                                 "[@NGYNY]({})".
-                                                
+  
 
     else:
         try:
