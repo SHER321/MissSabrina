@@ -39,7 +39,7 @@ Join [NGY BOTS](https://t.me/NGY_BOTS) if you want to keep up with the news, upd
 
 Made by Legend : [😎 N I K H I L😎](https://t.me/NGYNY)
 
-Want me to help you? [Click Here!](https://t.me/KING_NGY_BOT?startgroup=true)
+Want me to help you? [Click Here!](https://t.me/SIMBHA_NGY_BOT?startgroup=true)
 """
 
 
