@@ -52,7 +52,7 @@ Hello! my name *{}*.
 *Main* available commands:
  - /start: Start the bot...
  - /help: help....
-
+ - /donate: To find out more about donating!
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
@@ -71,7 +71,7 @@ STATS = []
 USER_INFO = []
 DATA_IMPORT = []
 DATA_EXPORT = []
-DONATE = = []
+
 CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
