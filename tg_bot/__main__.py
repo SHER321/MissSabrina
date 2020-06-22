@@ -27,7 +27,7 @@ def escape_html(word):
     return escape(word)
 
 PM_START_TEXT = """
-Hello *{}* My name is *Sabrina*!
+Hello *{}* My name is *𝓒𝓤𝓣𝓔 𝓚𝓘𝓝𝓖*!
 
 I'm here to manage your groups! 
 
@@ -169,7 +169,7 @@ def send_start(bot, update):
                 
     keyboard = [[
         InlineKeyboardButton(text=tld(chat.id, '🥳Add To Group'),
-                             url="https://t.me/Sabrina_bot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
+                             url="https://t.me/KING_NGY_BOT?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
         ]]
     keyboard += [[
         InlineKeyboardButton(text=tld(chat.id, '👥 Support Channel'), url="https://t.me/ALL_MOVIES_LIABRARY")
@@ -416,8 +416,8 @@ def donate(bot: Bot, update: Update):
 
         if OWNER_ID != 1171354752 and DONATION_LINK:
             update.effective_message.reply_text("You can also donate to the person currently running me "
-                                                "[here]({})".format(DONATION_LINK),
-                                                parse_mode=ParseMode.MARKDOWN)
+                                                "[here]({})".for,
+                                                
 
     else:
         try:
