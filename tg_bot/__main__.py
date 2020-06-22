@@ -169,7 +169,7 @@ def send_start(bot, update):
                 
     keyboard = [[
         InlineKeyboardButton(text=tld(chat.id, '🥳Add To Group'),
-                             url="https://t.me/KING_NGY_BOT?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
+                             url="https://t.me/Sabrina_bot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
         ]]
     keyboard += [[
         InlineKeyboardButton(text=tld(chat.id, '👥 Support Channel'), url="https://t.me/ALL_MOVIES_LIABRARY")
