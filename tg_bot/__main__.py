@@ -169,10 +169,10 @@ def send_start(bot, update):
                 
     keyboard = [[
         InlineKeyboardButton(text=tld(chat.id, '🥳Add To Group'),
-                             url="https://t.me/MissSabrina_bot?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
+                             url="https://t.me/KING_NGY_BOT?startgroup=true"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")
         ]]
     keyboard += [[
-        InlineKeyboardButton(text=tld(chat.id, '👥 Support Channel'), url="https://t.me/NGY_BOTS")
+        InlineKeyboardButton(text=tld(chat.id, '👥 Support Channel'), url="https://t.me/ALL_MOVIES_LIABRARY")
     ]]
 
     update.effective_message.reply_text(
@@ -414,7 +414,7 @@ def donate(bot: Bot, update: Update):
     if chat.type == "private":
         update.effective_message.reply_text(DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
 
-        if OWNER_ID != 594813047 and DONATION_LINK:
+        if OWNER_ID != 1171354752 and DONATION_LINK:
             update.effective_message.reply_text("You can also donate to the person currently running me "
                                                 "[here]({})".format(DONATION_LINK),
                                                 parse_mode=ParseMode.MARKDOWN)
